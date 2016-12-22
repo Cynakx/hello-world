@@ -1,4 +1,5 @@
 # hello-world
 Test
 
-This a my first use of Github.
+This is my first use of Github.
+This is my second use of Github.
